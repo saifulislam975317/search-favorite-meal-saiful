@@ -1,0 +1,16 @@
+#card-area{
+    padding: 50px;
+}
+
+#meals-details img{
+ width: 150px;
+ height: 300px;
+}
+
+
+#emptyString{
+    display: none;
+}
+#error-something{
+    display: none;
+}
